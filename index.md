@@ -30,18 +30,8 @@
 
 <center> 
   
-<script>
-  (function() {
-    var cx = 'partner-pub-9965606273577507:7469229088';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-<gcse:searchbox-only></gcse:searchbox-only>
+<script async src="https://cse.google.com/cse.js?cx=partner-pub-9965606273577507:1386495254"></script>
+<div class="gcse-searchbox-only"></div>
 
 <br>
   
