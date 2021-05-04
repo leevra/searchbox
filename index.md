@@ -1,37 +1,115 @@
-## Welcome to GitHub Pages
+<html lang='kr'>
+  <head>
+    <title>내가 뭘 검색하려고 했지?</title>
+    <meta charset='utf-8'>
+    <meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+    <link href="/assets/errors.css?body=1" media="screen" rel="stylesheet" type="text/css" />
+    <!--[if (gte IE 6)&(lte IE 8)]>
+      <script src="/assets/selectivizr-min.js?body=1" type="text/javascript"></script>
+    <![endif]-->
+	  
+	  
+	  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-106024134-35"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-You can use the [editor on GitHub](https://github.com/leevra/searchbox/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  gtag('config', 'UA-106024134-35');
+</script>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	  
+	  
+  </head>
+  <body>
+    
 
-### Markdown
+	
+<h3>내가 뭘 검색하려고 했지?</h3>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<center> 
+  
+<script>
+  (function() {
+    var cx = 'partner-pub-9965606273577507:7469229088';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
 
-```markdown
-Syntax highlighted code block
+<br>
+  
+  
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- a1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9965606273577507"
+     data-ad-slot="2174642279"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
-# Header 1
-## Header 2
-### Header 3
+<br>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<a href="https://pf.kakao.com/_zximzs" target="_blank"><strong><span style="color: rgb(24, 16, 243); font-size: 18pt;">공동구매연구소</span></strong><br><span style="color: rgb(0, 158, 37);">https://공동구매연구소.leevra.com/</span><p></p></a><p><a href="https://pf.kakao.com/_zximzs" target="_self"><span>​<span><span><span><span style="color: rgb(0, 0, 0);">｜</span></span></span></span><span style="color: rgb(0, 0, 0);">짠돌이, 짠순이들의 최저가 쇼핑 연구소<span><span><span><span style="color: rgb(0, 0, 0);"><br>｜<span><span><span><span style="color: rgb(0, 0, 0);"><strong>단 한 치의 거품도 없이 싸게 살 수 있다!</strong></span></span></span></span></span></span></span></span></span></span></a></p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leevra/searchbox/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ <br> 
+ 
+ 
+ 
+ 
 
-### Support or Contact
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- a2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9965606273577507"
+     data-ad-slot="3651375474"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+  
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<br>
+
+
+
+<br>
+ 
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- a3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9965606273577507"
+     data-ad-slot="5128108672"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+  
+  
+</center>
+	
+	
+  </body>
+</html>
