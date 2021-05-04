@@ -38,21 +38,6 @@
 <div class="gcse-searchbox-only"></div>
 
 
-
-</center>
-
-
-
-
-
-<script async src="https://cse.google.com/cse.js?cx=partner-pub-9965606273577507:1386495254"></script>
-<div class="gcse-searchresults-only"></div>
-
-
-
-<br>  
-
-  <center>
   
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- a1 -->
@@ -66,9 +51,23 @@
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+
+</center>
+
+
 <br>
 
 
+<script async src="https://cse.google.com/cse.js?cx=partner-pub-9965606273577507:1386495254"></script>
+<div class="gcse-searchresults-only"></div>
+
+
+
+<br>  
+
+  
+
+<center>
 
 
 <a href="https://pf.kakao.com/_zximzs" target="_blank"><strong><span style="color: rgb(24, 16, 243); font-size: 18pt;">공동구매연구소</span></strong><br><span style="color: rgb(0, 158, 37);">https://공동구매연구소.leevra.com/</span><p></p></a><p><a href="https://pf.kakao.com/_zximzs" target="_self"><span>​<span><span><span><span style="color: rgb(0, 0, 0);">｜</span></span></span></span><span style="color: rgb(0, 0, 0);">짠돌이, 짠순이들의 최저가 쇼핑 연구소<span><span><span><span style="color: rgb(0, 0, 0);"><br>｜<span><span><span><span style="color: rgb(0, 0, 0);"><strong>단 한 치의 거품도 없이 싸게 살 수 있다!</strong></span></span></span></span></span></span></span></span></span></span></a></p>
